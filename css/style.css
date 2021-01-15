@@ -1,0 +1,66 @@
+/* .e-shop{
+    padding-bottom: 140px;
+} */
+
+
+
+
+.name{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+
+.jacket{
+    height: 340px;    
+    padding: 17px;
+
+}
+.jacket img{
+    height: 100%;
+    border-radius: 20px;
+    border: none;
+    background-color: beige;
+}
+.footer{
+    background-color: rgb(236, 241, 243)ite;
+   border-bottom: 20px;
+}
+.j-card{
+    border-radius: 20px;
+    background-color: rgb(236, 241, 243);
+}
+/* .last-flexbox{
+ margin-bottom: 50px;
+} */
+
+.sm-img{
+    width: 45%;
+    margin: 41px
+}
+
+.card-body {
+        padding: 28px;
+    }
+    .third-section{
+        
+    margin-top: 80px;
+}
+.li-card{
+    border: none;
+    border-radius: 20px;
+    background-color: #e5f5f5;
+}
+
+.l-btn{
+    padding: 9px;
+}
+#Email{
+    padding: 8px;
+}
+
+#last-section{
+    height: 400px;
+    background-color: #d5b2d6;
+}
